@@ -1,0 +1,28 @@
+¦
+œC:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\Form1.csutf-8±
+¥C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\Form1.Designer.csutf-8©
+ŸC:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmItems.csutf-8´
+¨C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmItems.Designer.csutf-8°
+¦C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmListReturned.csutf-8»
+¯C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmListReturned.Designer.csutf-8°
+¦C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmListStockout.csutf-8»
+¯C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmListStockout.Designer.csutf-8©
+ŸC:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmLogin.csutf-8´
+¨C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmLogin.Designer.csutf-8ª
+ C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmReport.csutf-8µ
+©C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmReport.Designer.csutf-8ª
+ C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmReturn.csutf-8µ
+©C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmReturn.Designer.csutf-8¬
+¢C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmSettings.csutf-8·
+«C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmSettings.Designer.csutf-8¬
+¢C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmStockOut.csutf-8·
+«C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmStockOut.Designer.csutf-8©
+ŸC:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmUsers.csutf-8´
+¨C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\frmUsers.Designer.csutf-8³
+©C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\Includes\SQLConfig.csutf-8¸
+®C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\Includes\usableFunction.csutf-8¨
+žC:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\Program.csutf-8¸
+®C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\Properties\AssemblyInfo.csutf-8À
+´C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\Properties\Resources.Designer.csutf-8¿
+³C:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\Properties\Settings.Designer.csutf-8Ü
+ÐC:\Users\miste\Desktop\uteq\Cuatrimestre8\Seguridad\INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.csutf-8

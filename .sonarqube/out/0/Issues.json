@@ -1,0 +1,895 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.5.0.0",
+        "fileVersion": "4.5.0-6.23127.3 (e2bc27d2)",
+        "semanticVersion": "4.5.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'ex' se ha declarado pero nunca se usa",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/SQLConfig.cs",
+                "region": {
+                  "startLine": 248,
+                  "startColumn": 30,
+                  "endLine": 248,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmItems.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 13,
+                  "endLine": 40,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmItems.cs",
+                "region": {
+                  "startLine": 167,
+                  "startColumn": 17,
+                  "endLine": 167,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/SQLConfig.cs",
+                "region": {
+                  "startLine": 250,
+                  "startColumn": 17,
+                  "endLine": 250,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field 'funct'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmSettings.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 9,
+                  "endLine": 22,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field 'Valid_Name'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 9,
+                  "endLine": 42,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field 'Valid_Contact'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 9,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field 'Valid_Password'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 9,
+                  "endLine": 44,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field 'Valid_Email'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 9,
+                  "endLine": 45,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'usableFunction' to match pascal case naming rules, consider using 'UsableFunction'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 11,
+                  "endLine": 11,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'con' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/SQLConfig.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 33,
+                  "endLine": 16,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'funct' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/SQLConfig.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 24,
+                  "endLine": 21,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'SQLConfig' to match pascal case naming rules, consider using 'SqlConfig'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/SQLConfig.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 11,
+                  "endLine": 13,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field 'cmd' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/SQLConfig.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 30,
+                  "endLine": 17,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field 'result' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/SQLConfig.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 13,
+                  "endLine": 20,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1186",
+          "level": "warning",
+          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmReport.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 22,
+                  "endLine": 51,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1116",
+          "level": "warning",
+          "message": "Remove this empty statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmReport.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 144,
+                  "endLine": 33,
+                  "endColumn": 145
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6444",
+          "level": "warning",
+          "message": "Pass a timeout to limit the execution time.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 20,
+                  "endLine": 56,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3626",
+          "level": "warning",
+          "message": "Remove this redundant jump.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmReturn.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 21,
+                  "endLine": 75,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6444",
+          "level": "warning",
+          "message": "Pass a timeout to limit the execution time.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 20,
+                  "endLine": 63,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6444",
+          "level": "warning",
+          "message": "Pass a timeout to limit the execution time.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 20,
+                  "endLine": 70,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 20,
+                  "endLine": 75,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6444",
+          "level": "warning",
+          "message": "Pass a timeout to limit the execution time.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/Includes/usableFunction.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 20,
+                  "endLine": 77,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmItems.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 21,
+                  "endLine": 93,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmItems.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 17,
+                  "endLine": 91,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3267",
+          "level": "warning",
+          "message": "Loops should be simplified with \"LINQ\" expressions",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmItems.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 36,
+                  "endLine": 89,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmItems.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 20,
+                  "endLine": 91,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1186",
+          "level": "warning",
+          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmItems.cs",
+                "region": {
+                  "startLine": 150,
+                  "startColumn": 22,
+                  "endLine": 150,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3626",
+          "level": "warning",
+          "message": "Remove this redundant jump.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmStockOut.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 21,
+                  "endLine": 106,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmReturn.cs",
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 25,
+                  "endLine": 123,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmReturn.cs",
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 21,
+                  "endLine": 121,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmStockOut.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 25,
+                  "endLine": 157,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/miste/Desktop/uteq/Cuatrimestre8/Seguridad/INVENTORY_SYSTEM_IN_C_WITH_SOURCE_CODE/InventorySystem_C%23/InventorySystem1.0/InventorySystem1.0/frmStockOut.cs",
+                "region": {
+                  "startLine": 155,
+                  "startColumn": 21,
+                  "endLine": 155,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "La variable está declarada pero nunca se usa",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0168)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1066": {
+          "id": "S1066",
+          "shortDescription": "Collapsible \"if\" statements should be merged",
+          "fullDescription": "Merging collapsible if statements increases the code’s readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1066",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1116": {
+          "id": "S1116",
+          "shortDescription": "Empty statements should be removed",
+          "fullDescription": "Empty statements, i.e. ;, are usually introduced by mistake, for example because:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1116",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "private or internal types or private members that are never executed or referenced are dead code: unnecessary, inoperative code that should be removed. Cleaning out dead code decreases the size of the maintained codebase, making it easier to understand the program and preventing bugs from being introduced.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1144",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay",
+              "Unnecessary"
+            ]
+          }
+        },
+        "S1186": {
+          "id": "S1186",
+          "shortDescription": "Methods should not be empty",
+          "fullDescription": "There are several reasons for a method not to have a method body:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1186",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1450": {
+          "id": "S1450",
+          "shortDescription": "Private fields only used as local variables in methods should become local variables",
+          "fullDescription": "When the value of a private field is always assigned to in a class' methods before being read, then it is not being used to store class information. Therefore, it should become a local variable in the relevant methods to prevent any misunderstanding.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1450",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "properties": {
+            "category": "Blocker Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that’s not marked readonly but is only set in the constructor, it could cause confusion about the field’s intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3267": {
+          "id": "S3267",
+          "shortDescription": "Loops should be simplified with \"LINQ\" expressions",
+          "fullDescription": "When a loop is filtering, selecting or aggregating, those functions can be handled with a clearer, more concise LINQ expression instead.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3267",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3626": {
+          "id": "S3626",
+          "shortDescription": "Jump statements should not be redundant",
+          "fullDescription": "Jump statements, such as return, yield break, goto, and continue let you change the default flow of program execution, but jump statements that direct the control flow to the original direction are just a waste of keystrokes.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3626",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6444": {
+          "id": "S6444",
+          "shortDescription": "Not specifying a timeout for regular expressions is security-sensitive",
+          "fullDescription": "Not specifying a timeout for regular expressions can lead to a Denial-of-Service attack. Pass a timeout when using System.Text.RegularExpressions to process untrusted input because a malicious user might craft a value for which the evaluation lasts excessively long.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6444",
+          "properties": {
+            "category": "Major Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
