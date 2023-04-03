@@ -39,6 +39,7 @@ namespace InventorySystem1._0
             cbotype.Text = config.dt.Rows[inc].Field<string>("TYPE");
             //txtqty.Text = config.dt.Rows[inc].Field<int>("Quantity").ToString();
             //cbounit.Text = config.dt.Rows[inc].Field<string>("Units");
+            //a
 
 
         }
